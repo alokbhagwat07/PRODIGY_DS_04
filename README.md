@@ -1,4 +1,4 @@
-# Task-04: Social Media Sentiment Analysis 📊
+# Task-04: Social Media Sentiment Analysis 
 
 ## Project Overview
 This project focuses on analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitudes toward different topics or brands. The analysis uses Twitter data and applies Natural Language Processing (NLP) techniques to classify sentiments into Positive, Negative, and Neutral categories.
